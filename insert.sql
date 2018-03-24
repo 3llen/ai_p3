@@ -31,11 +31,11 @@ INSERT INTO hardware VALUES ('108-H', 'Smart Door Lock', '4.0', 229.99, 2.8, '17
 -- The following queries are for inserting entries into the relation software
 INSERT INTO software VALUES ('109-S', 'Text Scanner OCR', '3.2', 1.99, 84.5, 'Android, ios', 1000000.00);
 INSERT INTO software VALUES ('110-S', 'Ad Blocker', '2.0', 3.99, 120, 'Android, ios, Windows, MacOS', 2000000.00);
-INSERT INTO software VALUES ('111-S', 'Package Tracker', '2.0', 0.00, 62.5, 'Android, ios', 2000000.00);
-INSERT INTO software VALUES ('112-S', 'Fitess Pal', '3.5', 0.00, 111.6, 'Android, ios, Windows, MacOS', 500000.00);
+INSERT INTO software VALUES ('111-S', 'Package Tracker', '2.0', 0.50, 62.5, 'Android, ios', 2000000.00);
+INSERT INTO software VALUES ('112-S', 'Fitess Pal', '3.5', 1.00, 111.6, 'Android, ios, Windows, MacOS', 500000.00);
 INSERT INTO software VALUES ('113-S', 'Notebook+', '2.0', 9.99, 150.0, 'Android, ios, Windows, MacOS,', 700000.00);
 INSERT INTO software VALUES ('114-S', 'Budget Butler', '4.3', 1.99, 40.5, 'Android, ios, Windows, MacOS', 500000.00);
-INSERT INTO software VALUES ('115-S', 'Life Time Countdown', '1.2', 0.00, 3.0,'Android, ios', 100000.00);
+INSERT INTO software VALUES ('115-S', 'Life Time Countdown', '1.2', 0.50, 3.0,'Android, ios', 100000.00);
 
 -- Queries for inserting into table region
 INSERT INTO region VALUES ('Canada', 36.29, 47657);
