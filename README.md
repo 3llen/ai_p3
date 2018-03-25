@@ -18,4 +18,4 @@ Q4,Q5:
 2)Screenshot for each chart  
 3)python code  
 4)Excel      
- 
+NO cvs needed!
