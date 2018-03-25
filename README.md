@@ -2,12 +2,12 @@
 
 checklist:  
 1.README file  
-2. change of [SOFTWARE TABLE] if affects  
 
 Q1:  
 screenshot
 
-Q4:  
+Q4,Q5:  
 1)SQL  
-2)Screenshot for each chart  
-3)Excel    
+2)Screenshot for each chart
+3)python code
+4)Excel    
